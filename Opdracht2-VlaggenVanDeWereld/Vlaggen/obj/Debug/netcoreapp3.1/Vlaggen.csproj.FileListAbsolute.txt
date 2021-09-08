@@ -1,0 +1,16 @@
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\bin\Debug\netcoreapp3.1\Vlaggen.exe
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\bin\Debug\netcoreapp3.1\Vlaggen.deps.json
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\bin\Debug\netcoreapp3.1\Vlaggen.runtimeconfig.json
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\bin\Debug\netcoreapp3.1\Vlaggen.runtimeconfig.dev.json
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\bin\Debug\netcoreapp3.1\Vlaggen.dll
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\bin\Debug\netcoreapp3.1\Vlaggen.pdb
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.csproj.AssemblyReference.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.Form1.resources
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.csproj.GenerateResource.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.AssemblyInfoInputs.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.AssemblyInfo.cs
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.csproj.CoreCompileInputs.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.dll
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.pdb
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.genruntimeconfig.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachten\Opdracht2-VlaggenVanDeWereld\Vlaggen\obj\Debug\netcoreapp3.1\Vlaggen.Properties.Resources.resources
