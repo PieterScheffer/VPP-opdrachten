@@ -1,0 +1,10 @@
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\bin\Debug\AutoVerhuur.exe.config
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\bin\Debug\AutoVerhuur.exe
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\bin\Debug\AutoVerhuur.pdb
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\obj\Debug\AutoVerhuur.csproj.AssemblyReference.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\obj\Debug\AutoVerhuur.Form1.resources
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\obj\Debug\AutoVerhuur.Properties.Resources.resources
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\obj\Debug\AutoVerhuur.csproj.GenerateResource.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\obj\Debug\AutoVerhuur.csproj.CoreCompileInputs.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\obj\Debug\AutoVerhuur.exe
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\AutoVerhuur\AutoVerhuur\obj\Debug\AutoVerhuur.pdb
