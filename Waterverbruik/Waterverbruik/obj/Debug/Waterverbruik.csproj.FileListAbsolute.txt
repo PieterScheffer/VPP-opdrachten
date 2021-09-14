@@ -1,0 +1,10 @@
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\bin\Debug\Waterverbruik.exe.config
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\bin\Debug\Waterverbruik.exe
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\bin\Debug\Waterverbruik.pdb
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.csproj.AssemblyReference.cache
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.Form1.resources
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.Properties.Resources.resources
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.csproj.GenerateResource.cache
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.csproj.CoreCompileInputs.cache
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.exe
+C:\Users\GTX1080\source\repos\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.pdb
