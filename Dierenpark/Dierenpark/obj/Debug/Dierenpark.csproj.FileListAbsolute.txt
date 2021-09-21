@@ -1,0 +1,10 @@
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\bin\Debug\Dierenpark.exe.config
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\bin\Debug\Dierenpark.exe
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\bin\Debug\Dierenpark.pdb
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\obj\Debug\Dierenpark.csproj.AssemblyReference.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\obj\Debug\Dierenpark.Form1.resources
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\obj\Debug\Dierenpark.Properties.Resources.resources
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\obj\Debug\Dierenpark.csproj.GenerateResource.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\obj\Debug\Dierenpark.csproj.CoreCompileInputs.cache
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\obj\Debug\Dierenpark.exe
+C:\Users\GTX1080\source\repos\VPP-opdrachtenLocal\Dierenpark\Dierenpark\obj\Debug\Dierenpark.pdb
